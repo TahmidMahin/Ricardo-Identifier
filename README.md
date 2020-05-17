@@ -1,5 +1,5 @@
 # Ricardo-Identifier
-1. Save your picture in the "  " folder and mention its directory in the main method.
+1. Save your picture and mention its path in the main method as directed.
 2. Build and run.
 
 This project can also be used for other binary classifications too.
